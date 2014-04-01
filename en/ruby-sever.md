@@ -201,3 +201,5 @@ I think it's good idea to restart the server, but maybe necessary.
 Now you are able to run your Ruby (on Rails) applications on your server using Debian & Nginx & Passenger & ISPConfig & RVM
 
 How to deploy Rails application I will show you in the next post.
+
+> [Jiri Kolarik](http://jirikolarik.com) @ [We're in s.r.o.](http://werein.cz)
