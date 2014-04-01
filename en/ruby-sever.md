@@ -31,8 +31,7 @@ If you want run ISPConfig admin interface on this server, you need to install PH
  
 ## Nginx and Passenger
 
-You can find more informations on Phusion blog
-http://blog.phusion.nl/2013/09/11/debian-and-ubuntu-packages-for-phusion-passenger/
+You can find more informations on [Phusion blog](http://blog.phusion.nl/2013/09/11/debian-and-ubuntu-packages-for-phusion-passenger/)
 
 	Add key to your server
 	gpg --keyserver keyserver.ubuntu.com --recv-keys 561F9B9CAC40B2F7
